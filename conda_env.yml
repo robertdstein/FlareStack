@@ -3,4 +3,4 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - photospline=2.1.0
+  - photospline=2.3.1
